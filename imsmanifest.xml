@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5qfFsWEX7Sa" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Recaudación de Pagos</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Recaudación_de_Pagos_ORG">
+    <organization identifier="Recaudación_de_Pagos_ORG">
+      <title>Recaudación de Pagos</title>
+      <item identifier="Comercio_Exterior_SCO" isvisible="true" identifierref="__5qfFsWEX7Sa_RES">
+        <title>Recaudación de Pagos</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5qfFsWEX7Sa_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_5hr9RpNfpHd_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5sSItCP01Q1_video_5hr9RpNfpHd_19_56_1920x1080.jpg" />
+      <file href="mobile/641hs3RtItY.png" />
+      <file href="mobile/5fuudxRhUl5_M_140_140.png" />
+      <file href="mobile/6gJxiVMZeps.png" />
+      <file href="mobile/5kg70XDiN40.png" />
+      <file href="story_content/video_63ZQHkqfcM3_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_6m5nW6tNT5J_video_63ZQHkqfcM3_19_56_1920x1080.jpg" />
+      <file href="mobile/6PATZ0LWXhc_P_0_70_1988_1224.jpg" />
+      <file href="mobile/67FfFcwX9lT.png" />
+      <file href="mobile/67FfFcwX9lT_B40_RG.png" />
+      <file href="story_content/video_6C4lVbYTe3G_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5dt8gRtQklu_video_6C4lVbYTe3G_19_56_1920x1080.jpg" />
+      <file href="story_content/video_6p7laVWx02U_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_5eiDgo3Kvdc_video_6p7laVWx02U_19_56_1920x1080.jpg" />
+      <file href="story_content/5mLCCeW6L5f_44100_56_0.mp3" />
+      <file href="mobile/5fuudxRhUl5_M_142_142.png" />
+      <file href="story_content/5jz9ciL2Xzh_44100_56_0.mp3" />
+      <file href="story_content/video_6jPld78wayA_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_63BzGEvEzMC_video_6jPld78wayA_19_56_1920x1080.jpg" />
+      <file href="story_content/video_6Bd83B55nQE_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_67JVd6D0gHi_video_6Bd83B55nQE_19_56_1920x1080.jpg" />
+      <file href="mobile/66yja5VGxRK.png" />
+      <file href="mobile/67bMN6nsbnL.png" />
+      <file href="mobile/6bvCHySFcrA.png" />
+      <file href="mobile/6kQACnxCqbq_M_266_266.png" />
+      <file href="story_content/5WpZAVjRV7Q_44100_56_0.mp3" />
+      <file href="story_content/5ilR8PUnQzr_44100_56_0.mp3" />
+      <file href="story_content/6PtGr2RtBAr_44100_56_0.mp3" />
+      <file href="mobile/5WnUDtOUdiy.png" />
+      <file href="story_content/video_6H4ZXYSVaJu_19_56_1920x1080.mp4" />
+      <file href="mobile/poster_697YWFxpg3r_video_6H4ZXYSVaJu_19_56_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape66beKWLRZwm.png" />
+      <file href="mobile/Shape5vScTpvPIuz.png" />
+      <file href="mobile/Shape5oZxD57OW1u.png" />
+      <file href="mobile/Shape6TxuYjgEU7N.png" />
+      <file href="mobile/Shape6V3DxlGBWZQ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c3N4eaDmBi.js" />
+      <file href="html5/data/js/5gT9JQrfl2U.js" />
+      <file href="html5/data/js/5gXJpKx9muv.js" />
+      <file href="html5/data/js/5t8wZw53O4K.js" />
+      <file href="html5/data/js/5w0yfounSIO.js" />
+      <file href="html5/data/js/5XVHiKn5Or7.js" />
+      <file href="html5/data/js/5Zxu95pDjyf.js" />
+      <file href="html5/data/js/63slogvolGe.js" />
+      <file href="html5/data/js/65pfSZcT8UL.js" />
+      <file href="html5/data/js/67dTWNPhCMr.js" />
+      <file href="html5/data/js/69i7WCjn45m.js" />
+      <file href="html5/data/js/6BMIVU3nbIw.js" />
+      <file href="html5/data/js/6G7vLhV3moC.js" />
+      <file href="html5/data/js/6O97cH0tjJG.js" />
+      <file href="html5/data/js/6SkFfegTQKB.js" />
+      <file href="html5/data/js/6Z7XOumKLXP.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
